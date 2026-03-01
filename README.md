@@ -16,6 +16,3 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- [x] Turn off rule for no-explicit any to allow for initial experimentation
-- [ ] Add emotion to allow for styled components to allow for quicker implementation and semantic naming of style components
-- [ ] Add 
